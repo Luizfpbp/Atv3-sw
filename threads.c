@@ -58,8 +58,6 @@ void *med (void *vArr) {
 
 	int sum = 0, c;
 
-	printf("%d\n", arr[1]);
-
 	for (c=0; c<tam; c++) {
 		sum += arr[c];
 	}
