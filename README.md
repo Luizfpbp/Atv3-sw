@@ -7,7 +7,7 @@ array deve ser digitado antes dos numeros encadeados. <br/>
 
 ## Istallation
 ```bash
-$ git clone 
+$ git clone https://github.com/Luizfpbp/Atv3-sw.git
 $ cd Atv3-sw
 ```
 
