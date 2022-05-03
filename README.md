@@ -5,7 +5,7 @@ A proposta da atividade é criar funções que retornam, respectivamente,<br/>
 a média, o menor e o maior valor de um array de inteiros, o tamanho do <br/>
 array deve ser digitado antes dos numeros encadeados. <br/>
 
-## Istallation
+## Installation
 ```bash
 $ git clone https://github.com/Luizfpbp/Atv3-sw.git
 $ cd Atv3-sw
