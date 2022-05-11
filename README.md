@@ -1,4 +1,4 @@
-# Atv3-sw
+# Atv3-sw-Threads
 Uso de threads para solucionar funções <br/>
 
 A proposta da atividade é criar funções que retornam, respectivamente,<br/>
@@ -8,7 +8,7 @@ array deve ser digitado antes dos numeros encadeados. <br/>
 ## Installation
 ```bash
 $ git clone https://github.com/Luizfpbp/Atv3-sw.git
-$ cd Atv3-sw
+$ cd Atv3-sw-Threads
 ```
 
 ## Commands
